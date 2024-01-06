@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162491456547",
+    "project_id": "alpine-tracker-389405",
+    "storage_bucket": "alpine-tracker-389405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162491456547:android:068c40c774516a12736596",
+        "android_client_info": {
+          "package_name": "com.example.kidney_stone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdp0sW6ZUDdv_OTRnUuhr3V5vrkbi4rQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

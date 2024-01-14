@@ -4,4 +4,6 @@
     <string name="login">login</string>
     <string name="password">password</string>
     <string name="email">email</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_signup">click_to_Signup</string>
 </resources>

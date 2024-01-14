@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Kidney_Stone</string>
+    <string name="signup">signup</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
 </resources>
